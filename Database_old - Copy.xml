@@ -1,0 +1,3514 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <DataTable1>
+    <ID>1</ID>
+    <Vocab>je</Vocab>
+    <meaning>I</meaning>
+    <Language>Fr.</Language>
+    <Path>word-01.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>2</ID>
+    <Vocab>de</Vocab>
+    <meaning>of, from</meaning>
+    <Language>Fr.</Language>
+    <Path>word-02.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>3</ID>
+    <Vocab>il est</Vocab>
+    <meaning>he is</meaning>
+    <Language>Fr.</Language>
+    <Path>word-03.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>4</ID>
+    <Vocab>pas</Vocab>
+    <meaning>not</meaning>
+    <Language>Fr.</Language>
+    <Path>word-04.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>5</ID>
+    <Vocab>le</Vocab>
+    <meaning>the (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-05.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>6</ID>
+    <Vocab>vous</Vocab>
+    <meaning>you (pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-06.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>7</ID>
+    <Vocab>la</Vocab>
+    <meaning>the (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-07.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>8</ID>
+    <Vocab>tu</Vocab>
+    <meaning>you (s)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-08.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>9</ID>
+    <Vocab>que</Vocab>
+    <meaning>that, which, who</meaning>
+    <Language>Fr.</Language>
+    <Path>word-09.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>10</ID>
+    <Vocab>un</Vocab>
+    <meaning>a (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-10.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>11</ID>
+    <Vocab>il</Vocab>
+    <meaning>he</meaning>
+    <Language>Fr.</Language>
+    <Path>word-11.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>12</ID>
+    <Vocab>et</Vocab>
+    <meaning>and</meaning>
+    <Language>Fr.</Language>
+    <Path>word-12.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>13</ID>
+    <Vocab>à</Vocab>
+    <meaning>to, in</meaning>
+    <Language>Fr.</Language>
+    <Path>word-13.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>14</ID>
+    <Vocab>les</Vocab>
+    <meaning>the (pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-14.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>15</ID>
+    <Vocab>en</Vocab>
+    <meaning>in, to</meaning>
+    <Language>Fr.</Language>
+    <Path>word-15.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>16</ID>
+    <Vocab>ça</Vocab>
+    <meaning>this, that</meaning>
+    <Language>Fr.</Language>
+    <Path>word-17.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>17</ID>
+    <Vocab>une</Vocab>
+    <meaning>a(f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-18.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>18</ID>
+    <Vocab>J'ai</Vocab>
+    <meaning>I have</meaning>
+    <Language>Fr.</Language>
+    <Path>word-19.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>19</ID>
+    <Vocab>pour</Vocab>
+    <meaning>for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-20.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>20</ID>
+    <Vocab>des</Vocab>
+    <meaning>of, from the</meaning>
+    <Language>Fr.</Language>
+    <Path>word-21.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>21</ID>
+    <Vocab>qui</Vocab>
+    <meaning>who</meaning>
+    <Language>Fr.</Language>
+    <Path>word-22.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>22</ID>
+    <Vocab>nous</Vocab>
+    <meaning>we, us</meaning>
+    <Language>Fr.</Language>
+    <Path>word-23.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>23</ID>
+    <Vocab>y</Vocab>
+    <meaning>there</meaning>
+    <Language>Fr.</Language>
+    <Path>word-24.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>24</ID>
+    <Vocab>mais</Vocab>
+    <meaning>but</meaning>
+    <Language>Fr.</Language>
+    <Path>word-25.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>25</ID>
+    <Vocab>me</Vocab>
+    <meaning>me, myself</meaning>
+    <Language>Fr.</Language>
+    <Path>word-26.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>26</ID>
+    <Vocab>dans</Vocab>
+    <meaning>in</meaning>
+    <Language>Fr.</Language>
+    <Path>word-27.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>27</ID>
+    <Vocab>du</Vocab>
+    <meaning>from, of</meaning>
+    <Language>Fr.</Language>
+    <Path>word-28.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>28</ID>
+    <Vocab>bien</Vocab>
+    <meaning>well</meaning>
+    <Language>Fr.</Language>
+    <Path>word-29.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>29</ID>
+    <Vocab>elle</Vocab>
+    <meaning>she</meaning>
+    <Language>Fr.</Language>
+    <Path>word-30.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>30</ID>
+    <Vocab>si</Vocab>
+    <meaning>if</meaning>
+    <Language>Fr.</Language>
+    <Path>word-31.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>31</ID>
+    <Vocab>tout</Vocab>
+    <meaning>all</meaning>
+    <Language>Fr.</Language>
+    <Path>word-32.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>32</ID>
+    <Vocab>plus</Vocab>
+    <meaning>more</meaning>
+    <Language>Fr.</Language>
+    <Path>word-33.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>33</ID>
+    <Vocab>non</Vocab>
+    <meaning>no</meaning>
+    <Language>Fr.</Language>
+    <Path>word-34.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>34</ID>
+    <Vocab>Je suis</Vocab>
+    <meaning>I am</meaning>
+    <Language>Fr.</Language>
+    <Path>word-35.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>35</ID>
+    <Vocab>au</Vocab>
+    <meaning>to, at</meaning>
+    <Language>Fr.</Language>
+    <Path>word-36.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>36</ID>
+    <Vocab>avec</Vocab>
+    <meaning>with</meaning>
+    <Language>Fr.</Language>
+    <Path>word-37.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>37</ID>
+    <Vocab>Il va</Vocab>
+    <meaning>He goes, is going</meaning>
+    <Language>Fr.</Language>
+    <Path>word-38.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>38</ID>
+    <Vocab>oui</Vocab>
+    <meaning>yes</meaning>
+    <Language>Fr.</Language>
+    <Path>word-39.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>39</ID>
+    <Vocab>il fait</Vocab>
+    <meaning>He does, makes</meaning>
+    <Language>Fr.</Language>
+    <Path>word-40.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>40</ID>
+    <Vocab>ils</Vocab>
+    <meaning>they</meaning>
+    <Language>Fr.</Language>
+    <Path>word-41.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>41</ID>
+    <Vocab>Il a</Vocab>
+    <meaning>He has</meaning>
+    <Language>Fr.</Language>
+    <Path>word-42.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>42</ID>
+    <Vocab>être</Vocab>
+    <meaning>to be</meaning>
+    <Language>Fr.</Language>
+    <Path>word-43.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>43</ID>
+    <Vocab>faire</Vocab>
+    <meaning>to do, make</meaning>
+    <Language>Fr.</Language>
+    <Path>word-44.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>44</ID>
+    <Vocab>comme</Vocab>
+    <meaning>as</meaning>
+    <Language>Fr.</Language>
+    <Path>word-45.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>45</ID>
+    <Vocab>sur</Vocab>
+    <meaning>on</meaning>
+    <Language>Fr.</Language>
+    <Path>word-47.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>46</ID>
+    <Vocab>quoi</Vocab>
+    <meaning>what</meaning>
+    <Language>Fr.</Language>
+    <Path>word-48.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>47</ID>
+    <Vocab>ici</Vocab>
+    <meaning>here</meaning>
+    <Language>Fr.</Language>
+    <Path>word-49.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>48</ID>
+    <Vocab>Je sais</Vocab>
+    <meaning>I know</meaning>
+    <Language>Fr.</Language>
+    <Path>word-50.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>49</ID>
+    <Vocab>Je veux</Vocab>
+    <meaning>I want</meaning>
+    <Language>Fr.</Language>
+    <Path>word-51.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>50</ID>
+    <Vocab>là</Vocab>
+    <meaning>there</meaning>
+    <Language>Fr.</Language>
+    <Path>word-52.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>51</ID>
+    <Vocab>rien</Vocab>
+    <meaning>nothing</meaning>
+    <Language>Fr.</Language>
+    <Path>word-53.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>52</ID>
+    <Vocab>Il dit</Vocab>
+    <meaning>He says</meaning>
+    <Language>Fr.</Language>
+    <Path>word-54.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>53</ID>
+    <Vocab>Tu es</Vocab>
+    <meaning>You are</meaning>
+    <Language>Fr.</Language>
+    <Path>word-55.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>54</ID>
+    <Vocab>où</Vocab>
+    <meaning>where</meaning>
+    <Language>Fr.</Language>
+    <Path>word-56.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>55</ID>
+    <Vocab>pourquoi</Vocab>
+    <meaning>why</meaning>
+    <Language>Fr.</Language>
+    <Path>word-57.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>56</ID>
+    <Vocab>Ils sont</Vocab>
+    <meaning>They are</meaning>
+    <Language>Fr.</Language>
+    <Path>word-58.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>57</ID>
+    <Vocab>quand</Vocab>
+    <meaning>when</meaning>
+    <Language>Fr.</Language>
+    <Path>word-59.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>58</ID>
+    <Vocab>par</Vocab>
+    <meaning>by, through</meaning>
+    <Language>Fr.</Language>
+    <Path>word-60.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>59</ID>
+    <Vocab>Je peux</Vocab>
+    <meaning>I can</meaning>
+    <Language>Fr.</Language>
+    <Path>word-61.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>60</ID>
+    <Vocab>Je vais</Vocab>
+    <meaning>I go, am going</meaning>
+    <Language>Fr.</Language>
+    <Path>word-62.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>61</ID>
+    <Vocab>dire</Vocab>
+    <meaning>to say</meaning>
+    <Language>Fr.</Language>
+    <Path>word-63.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>62</ID>
+    <Vocab>alors</Vocab>
+    <meaning>then</meaning>
+    <Language>Fr.</Language>
+    <Path>word-64.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>63</ID>
+    <Vocab>comment</Vocab>
+    <meaning>how</meaning>
+    <Language>Fr.</Language>
+    <Path>word-65.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>64</ID>
+    <Vocab>Vous avez</Vocab>
+    <meaning>You have(pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-66.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>65</ID>
+    <Vocab>bon</Vocab>
+    <meaning>good</meaning>
+    <Language>Fr.</Language>
+    <Path>word-67.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>66</ID>
+    <Vocab>ou</Vocab>
+    <meaning>or</meaning>
+    <Language>Fr.</Language>
+    <Path>word-68.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>67</ID>
+    <Vocab>très</Vocab>
+    <meaning>very</meaning>
+    <Language>Fr.</Language>
+    <Path>word-69.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>68</ID>
+    <Vocab>merci</Vocab>
+    <meaning>thank-you</meaning>
+    <Language>Fr.</Language>
+    <Path>word-70.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>69</ID>
+    <Vocab>Ils ont</Vocab>
+    <meaning>They have</meaning>
+    <Language>Fr.</Language>
+    <Path>word-71.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>70</ID>
+    <Vocab>même</Vocab>
+    <meaning>same</meaning>
+    <Language>Fr.</Language>
+    <Path>word-72.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>71</ID>
+    <Vocab>jamais</Vocab>
+    <meaning>never</meaning>
+    <Language>Fr.</Language>
+    <Path>word-73.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>72</ID>
+    <Vocab>aussi</Vocab>
+    <meaning>also</meaning>
+    <Language>Fr.</Language>
+    <Path>word-74.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>73</ID>
+    <Vocab>voir</Vocab>
+    <meaning>to see</meaning>
+    <Language>Fr.</Language>
+    <Path>word-75.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>74</ID>
+    <Vocab>chose</Vocab>
+    <meaning>thing (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-76.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>75</ID>
+    <Vocab>Vous allez</Vocab>
+    <meaning>You go (pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-77.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>76</ID>
+    <Vocab>tous</Vocab>
+    <meaning>all</meaning>
+    <Language>Fr.</Language>
+    <Path>word-78.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>77</ID>
+    <Vocab>ces</Vocab>
+    <meaning>these, those</meaning>
+    <Language>Fr.</Language>
+    <Path>word-79.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>78</ID>
+    <Vocab>Il faut</Vocab>
+    <meaning>It is necessary</meaning>
+    <Language>Fr.</Language>
+    <Path>word-80.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>79</ID>
+    <Vocab>falloir</Vocab>
+    <meaning>to be necessary</meaning>
+    <Language>Fr.</Language>
+    <Path>word-81.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>80</ID>
+    <Vocab>Vous êtes</Vocab>
+    <meaning>You are (pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-82.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>81</ID>
+    <Vocab>J'ai été</Vocab>
+    <meaning>I was</meaning>
+    <Language>Fr.</Language>
+    <Path>word-83.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>82</ID>
+    <Vocab>Je fais</Vocab>
+    <meaning>I do, make</meaning>
+    <Language>Fr.</Language>
+    <Path>word-84.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>83</ID>
+    <Vocab>avoir</Vocab>
+    <meaning>to have</meaning>
+    <Language>Fr.</Language>
+    <Path>word-85.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>84</ID>
+    <Vocab>Il peut</Vocab>
+    <meaning>He can, is able</meaning>
+    <Language>Fr.</Language>
+    <Path>word-86.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>85</ID>
+    <Vocab>autre</Vocab>
+    <meaning>other</meaning>
+    <Language>Fr.</Language>
+    <Path>word-87.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>86</ID>
+    <Vocab>encore</Vocab>
+    <meaning>again, still</meaning>
+    <Language>Fr.</Language>
+    <Path>word-88.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>87</ID>
+    <Vocab>maintenant</Vocab>
+    <meaning>now</meaning>
+    <Language>Fr.</Language>
+    <Path>word-89.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>88</ID>
+    <Vocab>peu</Vocab>
+    <meaning>not much, not very</meaning>
+    <Language>Fr.</Language>
+    <Path>word-90.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>89</ID>
+    <Vocab>vraiment</Vocab>
+    <meaning>really</meaning>
+    <Language>Fr.</Language>
+    <Path>word-91.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>90</ID>
+    <Vocab>temps</Vocab>
+    <meaning>weather, time (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-92.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>91</ID>
+    <Vocab>toujours</Vocab>
+    <meaning>always</meaning>
+    <Language>Fr.</Language>
+    <Path>word-93.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>92</ID>
+    <Vocab>vie</Vocab>
+    <meaning>life (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-94.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>93</ID>
+    <Vocab>sans</Vocab>
+    <meaning>without</meaning>
+    <Language>Fr.</Language>
+    <Path>word-95.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>94</ID>
+    <Vocab>juste</Vocab>
+    <meaning>fair, just</meaning>
+    <Language>Fr.</Language>
+    <Path>word-96.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>95</ID>
+    <Vocab>Il avait</Vocab>
+    <meaning>He had</meaning>
+    <Language>Fr.</Language>
+    <Path>word-97.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>96</ID>
+    <Vocab>accord</Vocab>
+    <meaning>agreement</meaning>
+    <Language>Fr.</Language>
+    <Path>word-98.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>97</ID>
+    <Vocab>J'ai vu</Vocab>
+    <meaning>I saw</meaning>
+    <Language>Fr.</Language>
+    <Path>word-99.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>98</ID>
+    <Vocab>monde</Vocab>
+    <meaning>world (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-100.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>99</ID>
+    <Vocab>quelque</Vocab>
+    <meaning>some, any</meaning>
+    <Language>Fr.</Language>
+    <Path>word-101.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>100</ID>
+    <Vocab>fois</Vocab>
+    <meaning>time</meaning>
+    <Language>Fr.</Language>
+    <Path>word-102.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>101</ID>
+    <Vocab>aller</Vocab>
+    <meaning>to go</meaning>
+    <Language>Fr.</Language>
+    <Path>word-103.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>102</ID>
+    <Vocab>trop</Vocab>
+    <meaning>too much</meaning>
+    <Language>Fr.</Language>
+    <Path>word-104.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>103</ID>
+    <Vocab>Je viens</Vocab>
+    <meaning>I come, am coming</meaning>
+    <Language>Fr.</Language>
+    <Path>word-105.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>104</ID>
+    <Vocab>Je crois</Vocab>
+    <meaning>I believe</meaning>
+    <Language>Fr.</Language>
+    <Path>word-106.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>105</ID>
+    <Vocab>croire</Vocab>
+    <meaning>to believe</meaning>
+    <Language>Fr.</Language>
+    <Path>word-107.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>106</ID>
+    <Vocab>dieu</Vocab>
+    <meaning>god</meaning>
+    <Language>Fr.</Language>
+    <Path>word-108.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>107</ID>
+    <Vocab>Je dois</Vocab>
+    <meaning>I have to, I must</meaning>
+    <Language>Fr.</Language>
+    <Path>word-109.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>108</ID>
+    <Vocab>devoir</Vocab>
+    <meaning>to have to</meaning>
+    <Language>Fr.</Language>
+    <Path>word-110.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>109</ID>
+    <Vocab>homme</Vocab>
+    <meaning>man (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-111.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>110</ID>
+    <Vocab>père</Vocab>
+    <meaning>father (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-112.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>111</ID>
+    <Vocab>sûr</Vocab>
+    <meaning>reliable, safe, certain</meaning>
+    <Language>Fr.</Language>
+    <Path>word-113.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>112</ID>
+    <Vocab>aux</Vocab>
+    <meaning>to the</meaning>
+    <Language>Fr.</Language>
+    <Path>word-114.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>113</ID>
+    <Vocab>avant</Vocab>
+    <meaning>before</meaning>
+    <Language>Fr.</Language>
+    <Path>word-115.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>114</ID>
+    <Vocab>J'étais</Vocab>
+    <meaning>I was</meaning>
+    <Language>Fr.</Language>
+    <Path>word-116.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>115</ID>
+    <Vocab>femme</Vocab>
+    <meaning>woman (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-117.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>116</ID>
+    <Vocab>J'aime</Vocab>
+    <meaning>I like, love</meaning>
+    <Language>Fr.</Language>
+    <Path>word-118.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>117</ID>
+    <Vocab>personne</Vocab>
+    <meaning>person (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-119.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>118</ID>
+    <Vocab>J'avais</Vocab>
+    <meaning>I had</meaning>
+    <Language>Fr.</Language>
+    <Path>word-120.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>119</ID>
+    <Vocab>vrai</Vocab>
+    <meaning>TRUE</meaning>
+    <Language>Fr.</Language>
+    <Path>word-121.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>120</ID>
+    <Vocab>ans</Vocab>
+    <meaning>year</meaning>
+    <Language>Fr.</Language>
+    <Path>word-122.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>121</ID>
+    <Vocab>mal</Vocab>
+    <meaning>wrong</meaning>
+    <Language>Fr.</Language>
+    <Path>word-123.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>122</ID>
+    <Vocab>parler</Vocab>
+    <meaning>to speak</meaning>
+    <Language>Fr.</Language>
+    <Path>word-124.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>123</ID>
+    <Vocab>après</Vocab>
+    <meaning>apres</meaning>
+    <Language>Fr.</Language>
+    <Path>word-125.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>124</ID>
+    <Vocab>mort</Vocab>
+    <meaning>death (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-126.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>125</ID>
+    <Vocab>Il veut</Vocab>
+    <meaning>He wants</meaning>
+    <Language>Fr.</Language>
+    <Path>word-127.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>126</ID>
+    <Vocab>J'ai eu</Vocab>
+    <meaning>I had</meaning>
+    <Language>Fr.</Language>
+    <Path>word-128.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>127</ID>
+    <Vocab>Il sera</Vocab>
+    <meaning>He will be</meaning>
+    <Language>Fr.</Language>
+    <Path>word-129.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>128</ID>
+    <Vocab>parce que</Vocab>
+    <meaning>because</meaning>
+    <Language>Fr.</Language>
+    <Path>word-130.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>129</ID>
+    <Vocab>mieux</Vocab>
+    <meaning>better</meaning>
+    <Language>Fr.</Language>
+    <Path>word-131.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>130</ID>
+    <Vocab>petit</Vocab>
+    <meaning>small</meaning>
+    <Language>Fr.</Language>
+    <Path>word-132.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>131</ID>
+    <Vocab>ca</Vocab>
+    <meaning>this, that</meaning>
+    <Language>Fr.</Language>
+    <Path>word-133.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>132</ID>
+    <Vocab>Je dis</Vocab>
+    <meaning>I say, am saying</meaning>
+    <Language>Fr.</Language>
+    <Path>word-134.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>133</ID>
+    <Vocab>beaucoup</Vocab>
+    <meaning>a lot, much</meaning>
+    <Language>Fr.</Language>
+    <Path>word-135.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>134</ID>
+    <Vocab>depuis</Vocab>
+    <meaning>since</meaning>
+    <Language>Fr.</Language>
+    <Path>word-136.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>135</ID>
+    <Vocab>Il doit</Vocab>
+    <meaning>He must</meaning>
+    <Language>Fr.</Language>
+    <Path>word-137.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>136</ID>
+    <Vocab>Je vois</Vocab>
+    <meaning>I see</meaning>
+    <Language>Fr.</Language>
+    <Path>word-138.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>137</ID>
+    <Vocab>mère</Vocab>
+    <meaning>mother (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-139.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>138</ID>
+    <Vocab>Tu vas</Vocab>
+    <meaning>You go</meaning>
+    <Language>Fr.</Language>
+    <Path>word-140.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>139</ID>
+    <Vocab>monsieur</Vocab>
+    <meaning>sir, Mr, gentleman</meaning>
+    <Language>Fr.</Language>
+    <Path>word-141.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>140</ID>
+    <Vocab>quel</Vocab>
+    <meaning>what</meaning>
+    <Language>Fr.</Language>
+    <Path>word-142.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>141</ID>
+    <Vocab>déjà</Vocab>
+    <meaning>already</meaning>
+    <Language>Fr.</Language>
+    <Path>word-143.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>142</ID>
+    <Vocab>fille</Vocab>
+    <meaning>daughter (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-144.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>143</ID>
+    <Vocab>gens</Vocab>
+    <meaning>people</meaning>
+    <Language>Fr.</Language>
+    <Path>word-145.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>144</ID>
+    <Vocab>donc</Vocab>
+    <meaning>so, therefore</meaning>
+    <Language>Fr.</Language>
+    <Path>word-146.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>145</ID>
+    <Vocab>jour</Vocab>
+    <meaning>day (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-147.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>146</ID>
+    <Vocab>soir</Vocab>
+    <meaning>evening (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-148.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>147</ID>
+    <Vocab>bonjour</Vocab>
+    <meaning>good morning</meaning>
+    <Language>Fr.</Language>
+    <Path>word-151.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>148</ID>
+    <Vocab>maison</Vocab>
+    <meaning>house (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-152.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>149</ID>
+    <Vocab>nom</Vocab>
+    <meaning>name (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-153.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>150</ID>
+    <Vocab>argent</Vocab>
+    <meaning>money (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-154.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>151</ID>
+    <Vocab>Je pense</Vocab>
+    <meaning>I think</meaning>
+    <Language>Fr.</Language>
+    <Path>word-155.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>152</ID>
+    <Vocab>penser</Vocab>
+    <meaning>to think</meaning>
+    <Language>Fr.</Language>
+    <Path>word-156.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>153</ID>
+    <Vocab>nuit</Vocab>
+    <meaning>night (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-157.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>154</ID>
+    <Vocab>papa</Vocab>
+    <meaning>father</meaning>
+    <Language>Fr.</Language>
+    <Path>word-158.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>155</ID>
+    <Vocab>salut</Vocab>
+    <meaning>hi</meaning>
+    <Language>Fr.</Language>
+    <Path>word-159.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>156</ID>
+    <Vocab>cela</Vocab>
+    <meaning>that</meaning>
+    <Language>Fr.</Language>
+    <Path>word-160.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>157</ID>
+    <Vocab>Nous avons</Vocab>
+    <meaning>We have</meaning>
+    <Language>Fr.</Language>
+    <Path>word-161.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>158</ID>
+    <Vocab>rester</Vocab>
+    <meaning>to stay, remain</meaning>
+    <Language>Fr.</Language>
+    <Path>word-162.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>159</ID>
+    <Vocab>Je reste</Vocab>
+    <meaning>I stay, remain</meaning>
+    <Language>Fr.</Language>
+    <Path>word-163.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>160</ID>
+    <Vocab>désolé</Vocab>
+    <meaning>sorry</meaning>
+    <Language>Fr.</Language>
+    <Path>word-164.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>161</ID>
+    <Vocab>maman</Vocab>
+    <meaning>mum (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-165.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>162</ID>
+    <Vocab>peur</Vocab>
+    <meaning>fright, fear (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-166.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>163</ID>
+    <Vocab>arriver</Vocab>
+    <meaning>to arrive</meaning>
+    <Language>Fr.</Language>
+    <Path>word-167.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>164</ID>
+    <Vocab>J'arrive</Vocab>
+    <meaning>I arrive</meaning>
+    <Language>Fr.</Language>
+    <Path>word-168.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>165</ID>
+    <Vocab>seul</Vocab>
+    <meaning>alone, by oneself</meaning>
+    <Language>Fr.</Language>
+    <Path>word-169.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>166</ID>
+    <Vocab>vite</Vocab>
+    <meaning>quickly</meaning>
+    <Language>Fr.</Language>
+    <Path>word-170.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>167</ID>
+    <Vocab>prendre</Vocab>
+    <meaning>to take</meaning>
+    <Language>Fr.</Language>
+    <Path>word-171.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>168</ID>
+    <Vocab>regarder</Vocab>
+    <meaning>to look at</meaning>
+    <Language>Fr.</Language>
+    <Path>word-172.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>169</ID>
+    <Vocab>Je regarde</Vocab>
+    <meaning>I look at</meaning>
+    <Language>Fr.</Language>
+    <Path>word-173.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>170</ID>
+    <Vocab>savoir</Vocab>
+    <meaning>to know</meaning>
+    <Language>Fr.</Language>
+    <Path>word-174.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>171</ID>
+    <Vocab>moins</Vocab>
+    <meaning>less</meaning>
+    <Language>Fr.</Language>
+    <Path>word-175.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>172</ID>
+    <Vocab>fils</Vocab>
+    <meaning>son (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-176.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>173</ID>
+    <Vocab>entre</Vocab>
+    <meaning>between</meaning>
+    <Language>Fr.</Language>
+    <Path>word-177.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>174</ID>
+    <Vocab>bas</Vocab>
+    <meaning>low</meaning>
+    <Language>Fr.</Language>
+    <Path>word-178.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>175</ID>
+    <Vocab>tête</Vocab>
+    <meaning>head (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-179.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>176</ID>
+    <Vocab>demain</Vocab>
+    <meaning>tomorrow</meaning>
+    <Language>Fr.</Language>
+    <Path>word-180.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>177</ID>
+    <Vocab>grand</Vocab>
+    <meaning>tall, big</meaning>
+    <Language>Fr.</Language>
+    <Path>word-181.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>178</ID>
+    <Vocab>Vous faites</Vocab>
+    <meaning>you do, make</meaning>
+    <Language>Fr.</Language>
+    <Path>word-182.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>179</ID>
+    <Vocab>Vous voulez</Vocab>
+    <meaning>you want</meaning>
+    <Language>Fr.</Language>
+    <Path>word-183.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>180</ID>
+    <Vocab>attender</Vocab>
+    <meaning>to wait for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-184.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>181</ID>
+    <Vocab>J'attends</Vocab>
+    <meaning>I wait for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-185.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>182</ID>
+    <Vocab>enfant</Vocab>
+    <meaning>child</meaning>
+    <Language>Fr.</Language>
+    <Path>word-186.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>183</ID>
+    <Vocab>assez</Vocab>
+    <meaning>enough</meaning>
+    <Language>Fr.</Language>
+    <Path>word-187.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>184</ID>
+    <Vocab>raison</Vocab>
+    <meaning>reason (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-188.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>185</ID>
+    <Vocab>J'aurais</Vocab>
+    <meaning>I would have</meaning>
+    <Language>Fr.</Language>
+    <Path>word-189.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>186</ID>
+    <Vocab>Je voulais</Vocab>
+    <meaning>I would like</meaning>
+    <Language>Fr.</Language>
+    <Path>word-190.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>187</ID>
+    <Vocab>Je parle</Vocab>
+    <meaning>I speak</meaning>
+    <Language>Fr.</Language>
+    <Path>word-191.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>188</ID>
+    <Vocab>moment</Vocab>
+    <meaning>moment (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-192.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>189</ID>
+    <Vocab>heure</Vocab>
+    <meaning>hour (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-193.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>190</ID>
+    <Vocab>puis</Vocab>
+    <meaning>then</meaning>
+    <Language>Fr.</Language>
+    <Path>word-194.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>191</ID>
+    <Vocab>amour</Vocab>
+    <meaning>love (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-195.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>192</ID>
+    <Vocab>tard</Vocab>
+    <meaning>late</meaning>
+    <Language>Fr.</Language>
+    <Path>word-196.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>193</ID>
+    <Vocab>Nous sommes</Vocab>
+    <meaning>We are</meaning>
+    <Language>Fr.</Language>
+    <Path>word-197.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>194</ID>
+    <Vocab>tuer</Vocab>
+    <meaning>to kill</meaning>
+    <Language>Fr.</Language>
+    <Path>word-198.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>195</ID>
+    <Vocab>ami</Vocab>
+    <meaning>friend (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-199.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>196</ID>
+    <Vocab>Je connais</Vocab>
+    <meaning>I know</meaning>
+    <Language>Fr.</Language>
+    <Path>word-200.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>197</ID>
+    <Vocab>connaitre</Vocab>
+    <meaning>to know</meaning>
+    <Language>Fr.</Language>
+    <Path>word-201.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>198</ID>
+    <Vocab>aider</Vocab>
+    <meaning>to help</meaning>
+    <Language>Fr.</Language>
+    <Path>word-202.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>199</ID>
+    <Vocab>chance</Vocab>
+    <meaning>luck, fortune (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-203.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>200</ID>
+    <Vocab>Vous savez</Vocab>
+    <meaning>You know</meaning>
+    <Language>Fr.</Language>
+    <Path>word-204.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>201</ID>
+    <Vocab>partir</Vocab>
+    <meaning>to leave, to go</meaning>
+    <Language>Fr.</Language>
+    <Path>word-205.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>202</ID>
+    <Vocab>Il sait</Vocab>
+    <meaning>He knows</meaning>
+    <Language>Fr.</Language>
+    <Path>word-206.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>203</ID>
+    <Vocab>combien</Vocab>
+    <meaning>how much</meaning>
+    <Language>Fr.</Language>
+    <Path>word-207.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>204</ID>
+    <Vocab>voiture</Vocab>
+    <meaning>car (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-208.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>205</ID>
+    <Vocab>J'ai pris</Vocab>
+    <meaning>I took</meaning>
+    <Language>Fr.</Language>
+    <Path>word-209.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>206</ID>
+    <Vocab>Il part</Vocab>
+    <meaning>He leaves</meaning>
+    <Language>Fr.</Language>
+    <Path>word-210.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>207</ID>
+    <Vocab>problème</Vocab>
+    <meaning>problem (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-211.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>208</ID>
+    <Vocab>Je prends</Vocab>
+    <meaning>I take</meaning>
+    <Language>Fr.</Language>
+    <Path>word-212.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>209</ID>
+    <Vocab>porter</Vocab>
+    <meaning>to carry</meaning>
+    <Language>Fr.</Language>
+    <Path>word-213.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>210</ID>
+    <Vocab>Je porte</Vocab>
+    <meaning>I carry</meaning>
+    <Language>Fr.</Language>
+    <Path>word-214.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>211</ID>
+    <Vocab>ouvrir</Vocab>
+    <meaning>to open</meaning>
+    <Language>Fr.</Language>
+    <Path>word-215.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>212</ID>
+    <Vocab>Il serait</Vocab>
+    <meaning>He would be</meaning>
+    <Language>Fr.</Language>
+    <Path>word-216.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>213</ID>
+    <Vocab>venir</Vocab>
+    <meaning>to come</meaning>
+    <Language>Fr.</Language>
+    <Path>word-217.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>214</ID>
+    <Vocab>aujourd'hui</Vocab>
+    <meaning>today</meaning>
+    <Language>Fr.</Language>
+    <Path>word-218.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>215</ID>
+    <Vocab>famille</Vocab>
+    <meaning>famille (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-219.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>216</ID>
+    <Vocab>dernier</Vocab>
+    <meaning>last</meaning>
+    <Language>Fr.</Language>
+    <Path>word-220.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>217</ID>
+    <Vocab>travail</Vocab>
+    <meaning>work (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-221.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>218</ID>
+    <Vocab>J'ai pu</Vocab>
+    <meaning>I could</meaning>
+    <Language>Fr.</Language>
+    <Path>word-222.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>219</ID>
+    <Vocab>Nous allons</Vocab>
+    <meaning>We go, are going</meaning>
+    <Language>Fr.</Language>
+    <Path>word-223.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>220</ID>
+    <Vocab>au revoir</Vocab>
+    <meaning>goodbye</meaning>
+    <Language>Fr.</Language>
+    <Path>word-224.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>221</ID>
+    <Vocab>idée</Vocab>
+    <meaning>idea (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-226.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>222</ID>
+    <Vocab>passer</Vocab>
+    <meaning>to cross, go through</meaning>
+    <Language>Fr.</Language>
+    <Path>word-227.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>223</ID>
+    <Vocab>contre</Vocab>
+    <meaning>against</meaning>
+    <Language>Fr.</Language>
+    <Path>word-228.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>224</ID>
+    <Vocab>comprendre</Vocab>
+    <meaning>to understand</meaning>
+    <Language>Fr.</Language>
+    <Path>word-229.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>225</ID>
+    <Vocab>Je comprends</Vocab>
+    <meaning>I understand</meaning>
+    <Language>Fr.</Language>
+    <Path>word-230.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>226</ID>
+    <Vocab>J'ai entendu</Vocab>
+    <meaning>I heard</meaning>
+    <Language>Fr.</Language>
+    <Path>word-232.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>227</ID>
+    <Vocab>J'ai trouvé</Vocab>
+    <meaning>I found</meaning>
+    <Language>Fr.</Language>
+    <Path>word-233.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>228</ID>
+    <Vocab>trouver</Vocab>
+    <meaning>to find</meaning>
+    <Language>Fr.</Language>
+    <Path>word-234.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>229</ID>
+    <Vocab>vieux</Vocab>
+    <meaning>old</meaning>
+    <Language>Fr.</Language>
+    <Path>word-235.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>230</ID>
+    <Vocab>Il vient</Vocab>
+    <meaning>He comes</meaning>
+    <Language>Fr.</Language>
+    <Path>word-236.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>231</ID>
+    <Vocab>il aurait</Vocab>
+    <meaning>He could have</meaning>
+    <Language>Fr.</Language>
+    <Path>word-237.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>232</ID>
+    <Vocab>quelques</Vocab>
+    <meaning>some</meaning>
+    <Language>Fr.</Language>
+    <Path>word-238.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>233</ID>
+    <Vocab>attention</Vocab>
+    <meaning>attention (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-239.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>234</ID>
+    <Vocab>demander</Vocab>
+    <meaning>to ask for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-240.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>235</ID>
+    <Vocab>Je demande</Vocab>
+    <meaning>I ask for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-241.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>236</ID>
+    <Vocab>chercher</Vocab>
+    <meaning>to look for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-242.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>237</ID>
+    <Vocab>sous</Vocab>
+    <meaning>under</meaning>
+    <Language>Fr.</Language>
+    <Path>word-243.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>238</ID>
+    <Vocab>voici</Vocab>
+    <meaning>here is</meaning>
+    <Language>Fr.</Language>
+    <Path>word-244.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>239</ID>
+    <Vocab>Il pourrait</Vocab>
+    <meaning>He could</meaning>
+    <Language>Fr.</Language>
+    <Path>word-245.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>240</ID>
+    <Vocab>sang</Vocab>
+    <meaning>blood (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-246.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>241</ID>
+    <Vocab>Vous pouvez</Vocab>
+    <meaning>You can (pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-247.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>242</ID>
+    <Vocab>sortir</Vocab>
+    <meaning>to go out, to take out</meaning>
+    <Language>Fr.</Language>
+    <Path>word-248.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>243</ID>
+    <Vocab>question</Vocab>
+    <meaning>question (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-249.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>244</ID>
+    <Vocab>histoire</Vocab>
+    <meaning>history (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-250.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>245</ID>
+    <Vocab>porte</Vocab>
+    <meaning>door (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-251.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>246</ID>
+    <Vocab>amis</Vocab>
+    <meaning>friends</meaning>
+    <Language>Fr.</Language>
+    <Path>word-252.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>247</ID>
+    <Vocab>Vous venez</Vocab>
+    <meaning>You come, are coming</meaning>
+    <Language>Fr.</Language>
+    <Path>word-253.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>248</ID>
+    <Vocab>frère</Vocab>
+    <meaning>brother (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-254.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>249</ID>
+    <Vocab>rester</Vocab>
+    <meaning>to stay, remain</meaning>
+    <Language>Fr.</Language>
+    <Path>word-255.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>250</ID>
+    <Vocab>J'ai fini</Vocab>
+    <meaning>I finished</meaning>
+    <Language>Fr.</Language>
+    <Path>word-256.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>251</ID>
+    <Vocab>ville</Vocab>
+    <meaning>town (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-257.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>252</ID>
+    <Vocab>nouveau</Vocab>
+    <meaning>new</meaning>
+    <Language>Fr.</Language>
+    <Path>word-258.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>253</ID>
+    <Vocab>truc</Vocab>
+    <meaning>knack, trick (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-259.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>254</ID>
+    <Vocab>mois</Vocab>
+    <meaning>month (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-260.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>255</ID>
+    <Vocab>mec</Vocab>
+    <meaning>bloke, chap (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-261.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>256</ID>
+    <Vocab>yeux</Vocab>
+    <meaning>eyes</meaning>
+    <Language>Fr.</Language>
+    <Path>word-262.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>257</ID>
+    <Vocab>laisser</Vocab>
+    <meaning>to leave</meaning>
+    <Language>Fr.</Language>
+    <Path>word-263.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>258</ID>
+    <Vocab>beau</Vocab>
+    <meaning>beautiful</meaning>
+    <Language>Fr.</Language>
+    <Path>word-264.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>259</ID>
+    <Vocab>longtemps</Vocab>
+    <meaning>a long time</meaning>
+    <Language>Fr.</Language>
+    <Path>word-265.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>260</ID>
+    <Vocab>eau</Vocab>
+    <meaning>water (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-266.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>261</ID>
+    <Vocab>car</Vocab>
+    <meaning>because, for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-267.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>262</ID>
+    <Vocab>cas</Vocab>
+    <meaning>case (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-268.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>263</ID>
+    <Vocab>ils vont</Vocab>
+    <meaning>they go, are going</meaning>
+    <Language>Fr.</Language>
+    <Path>word-269.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>264</ID>
+    <Vocab>chaque</Vocab>
+    <meaning>each, every</meaning>
+    <Language>Fr.</Language>
+    <Path>word-270.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>265</ID>
+    <Vocab>place</Vocab>
+    <meaning>place (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-272.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>266</ID>
+    <Vocab>main</Vocab>
+    <meaning>hand (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-273.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>267</ID>
+    <Vocab>pardon</Vocab>
+    <meaning>sorry</meaning>
+    <Language>Fr.</Language>
+    <Path>word-274.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>268</ID>
+    <Vocab>ensemble</Vocab>
+    <meaning>together</meaning>
+    <Language>Fr.</Language>
+    <Path>word-275.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>269</ID>
+    <Vocab>seulement</Vocab>
+    <meaning>only</meaning>
+    <Language>Fr.</Language>
+    <Path>word-276.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>270</ID>
+    <Vocab>guerre</Vocab>
+    <meaning>war (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-277.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>271</ID>
+    <Vocab>vers</Vocab>
+    <meaning>towards</meaning>
+    <Language>Fr.</Language>
+    <Path>word-278.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>272</ID>
+    <Vocab>devant</Vocab>
+    <meaning>in front of</meaning>
+    <Language>Fr.</Language>
+    <Path>word-279.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>273</ID>
+    <Vocab>Je trouve</Vocab>
+    <meaning>I find</meaning>
+    <Language>Fr.</Language>
+    <Path>word-280.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>274</ID>
+    <Vocab>partie</Vocab>
+    <meaning>part (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-281.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>275</ID>
+    <Vocab>J'ai compris</Vocab>
+    <meaning>I understood</meaning>
+    <Language>Fr.</Language>
+    <Path>word-282.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>276</ID>
+    <Vocab>matin</Vocab>
+    <meaning>morning (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-283.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>277</ID>
+    <Vocab>Je suis arrivé</Vocab>
+    <meaning>I arrived</meaning>
+    <Language>Fr.</Language>
+    <Path>word-284.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>278</ID>
+    <Vocab>dessus</Vocab>
+    <meaning>upper</meaning>
+    <Language>Fr.</Language>
+    <Path>word-285.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>279</ID>
+    <Vocab>mettre</Vocab>
+    <meaning>to put</meaning>
+    <Language>Fr.</Language>
+    <Path>word-286.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>280</ID>
+    <Vocab>Ils étaient</Vocab>
+    <meaning>They were</meaning>
+    <Language>Fr.</Language>
+    <Path>word-287.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>281</ID>
+    <Vocab>perdre</Vocab>
+    <meaning>to lose</meaning>
+    <Language>Fr.</Language>
+    <Path>word-288.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>282</ID>
+    <Vocab>J'ai perdu</Vocab>
+    <meaning>I lost</meaning>
+    <Language>Fr.</Language>
+    <Path>word-289.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>283</ID>
+    <Vocab>pendant</Vocab>
+    <meaning>during</meaning>
+    <Language>Fr.</Language>
+    <Path>word-290.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>284</ID>
+    <Vocab>premier</Vocab>
+    <meaning>first</meaning>
+    <Language>Fr.</Language>
+    <Path>word-291.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>285</ID>
+    <Vocab>genre</Vocab>
+    <meaning>sort, kind, type of</meaning>
+    <Language>Fr.</Language>
+    <Path>word-292.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>286</ID>
+    <Vocab>droit</Vocab>
+    <meaning>straight, law, right</meaning>
+    <Language>Fr.</Language>
+    <Path>word-293.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>287</ID>
+    <Vocab>Je donne</Vocab>
+    <meaning>I give</meaning>
+    <Language>Fr.</Language>
+    <Path>word-294.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>288</ID>
+    <Vocab>Vous attendez</Vocab>
+    <meaning>You wait (pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-295.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>289</ID>
+    <Vocab>jeune</Vocab>
+    <meaning>young</meaning>
+    <Language>Fr.</Language>
+    <Path>word-296.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>290</ID>
+    <Vocab>feu</Vocab>
+    <meaning>fire (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-297.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>291</ID>
+    <Vocab>Je devrais</Vocab>
+    <meaning>I should</meaning>
+    <Language>Fr.</Language>
+    <Path>word-298.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>292</ID>
+    <Vocab>chambre</Vocab>
+    <meaning>room (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-299.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>293</ID>
+    <Vocab>côté</Vocab>
+    <meaning>coast, side</meaning>
+    <Language>Fr.</Language>
+    <Path>word-300.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>294</ID>
+    <Vocab>Je suis venu</Vocab>
+    <meaning>I came</meaning>
+    <Language>Fr.</Language>
+    <Path>word-301.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>295</ID>
+    <Vocab>écrire</Vocab>
+    <meaning>to write</meaning>
+    <Language>Fr.</Language>
+    <Path>word-302.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>296</ID>
+    <Vocab>loin</Vocab>
+    <meaning>a long way, far</meaning>
+    <Language>Fr.</Language>
+    <Path>word-303.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>297</ID>
+    <Vocab>laisser</Vocab>
+    <meaning>to leave</meaning>
+    <Language>Fr.</Language>
+    <Path>word-304.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>298</ID>
+    <Vocab>rappeler</Vocab>
+    <meaning>to remind</meaning>
+    <Language>Fr.</Language>
+    <Path>word-305.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>299</ID>
+    <Vocab>monter</Vocab>
+    <meaning>to go up</meaning>
+    <Language>Fr.</Language>
+    <Path>word-306.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>300</ID>
+    <Vocab>donner</Vocab>
+    <meaning>to give</meaning>
+    <Language>Fr.</Language>
+    <Path>word-307.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>301</ID>
+    <Vocab>jouer</Vocab>
+    <meaning>to play</meaning>
+    <Language>Fr.</Language>
+    <Path>word-308.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>302</ID>
+    <Vocab>Je savais</Vocab>
+    <meaning>I knew</meaning>
+    <Language>Fr.</Language>
+    <Path>word-309.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>303</ID>
+    <Vocab>J'ai parlé</Vocab>
+    <meaning>I spoke</meaning>
+    <Language>Fr.</Language>
+    <Path>word-310.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>304</ID>
+    <Vocab>minute</Vocab>
+    <meaning>minute (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-311.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>305</ID>
+    <Vocab>madame</Vocab>
+    <meaning>madam, Mrs</meaning>
+    <Language>Fr.</Language>
+    <Path>word-312.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>306</ID>
+    <Vocab>Vous regardez</Vocab>
+    <meaning>You look at (pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-313.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>307</ID>
+    <Vocab>train</Vocab>
+    <meaning>train (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-314.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>308</ID>
+    <Vocab>pouvoir</Vocab>
+    <meaning>to be able</meaning>
+    <Language>Fr.</Language>
+    <Path>word-315.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>309</ID>
+    <Vocab>Il aura</Vocab>
+    <meaning>He will have</meaning>
+    <Language>Fr.</Language>
+    <Path>word-316.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>310</ID>
+    <Vocab>mourir</Vocab>
+    <meaning>to die</meaning>
+    <Language>Fr.</Language>
+    <Path>word-317.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>311</ID>
+    <Vocab>dernière</Vocab>
+    <meaning>last</meaning>
+    <Language>Fr.</Language>
+    <Path>word-318.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>312</ID>
+    <Vocab>J'ai donné</Vocab>
+    <meaning>I gave</meaning>
+    <Language>Fr.</Language>
+    <Path>word-319.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>313</ID>
+    <Vocab>mari</Vocab>
+    <meaning>husband (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-320.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>314</ID>
+    <Vocab>J'écoute</Vocab>
+    <meaning>I listen to</meaning>
+    <Language>Fr.</Language>
+    <Path>word-321.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>315</ID>
+    <Vocab>enfin</Vocab>
+    <meaning>finally</meaning>
+    <Language>Fr.</Language>
+    <Path>word-322.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>316</ID>
+    <Vocab>Il devrait</Vocab>
+    <meaning>He would have</meaning>
+    <Language>Fr.</Language>
+    <Path>word-323.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>317</ID>
+    <Vocab>J'ai mis</Vocab>
+    <meaning>I put</meaning>
+    <Language>Fr.</Language>
+    <Path>word-324.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>318</ID>
+    <Vocab>fort</Vocab>
+    <meaning>strong</meaning>
+    <Language>Fr.</Language>
+    <Path>word-325.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>319</ID>
+    <Vocab>façon</Vocab>
+    <meaning>way (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-326.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>320</ID>
+    <Vocab>pays</Vocab>
+    <meaning>country (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-327.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>321</ID>
+    <Vocab>prêt</Vocab>
+    <meaning>ready</meaning>
+    <Language>Fr.</Language>
+    <Path>word-328.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>322</ID>
+    <Vocab>affaire</Vocab>
+    <meaning>affair, matter, business (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-329.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>323</ID>
+    <Vocab>Je pourrais</Vocab>
+    <meaning>I would be able</meaning>
+    <Language>Fr.</Language>
+    <Path>word-330.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>324</ID>
+    <Vocab>J'espère</Vocab>
+    <meaning>I hope</meaning>
+    <Language>Fr.</Language>
+    <Path>word-331.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>325</ID>
+    <Vocab>Je suis parti</Vocab>
+    <meaning>I left</meaning>
+    <Language>Fr.</Language>
+    <Path>word-332.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>326</ID>
+    <Vocab>endroit</Vocab>
+    <meaning>place (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-333.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>327</ID>
+    <Vocab>fou</Vocab>
+    <meaning>mad</meaning>
+    <Language>Fr.</Language>
+    <Path>word-334.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>328</ID>
+    <Vocab>corps</Vocab>
+    <meaning>body (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-335.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>329</ID>
+    <Vocab>hier</Vocab>
+    <meaning>yesterday</meaning>
+    <Language>Fr.</Language>
+    <Path>word-336.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>330</ID>
+    <Vocab>désolée</Vocab>
+    <meaning>sorry</meaning>
+    <Language>Fr.</Language>
+    <Path>word-337.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>331</ID>
+    <Vocab>point</Vocab>
+    <meaning>point (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-338.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>332</ID>
+    <Vocab>dehors</Vocab>
+    <meaning>outside</meaning>
+    <Language>Fr.</Language>
+    <Path>word-339.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>333</ID>
+    <Vocab>vivre</Vocab>
+    <meaning>to live</meaning>
+    <Language>Fr.</Language>
+    <Path>word-340.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>334</ID>
+    <Vocab>près</Vocab>
+    <meaning>close</meaning>
+    <Language>Fr.</Language>
+    <Path>word-341.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>335</ID>
+    <Vocab>Je pensais</Vocab>
+    <meaning>I thought</meaning>
+    <Language>Fr.</Language>
+    <Path>word-342.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>336</ID>
+    <Vocab>garçon</Vocab>
+    <meaning>boy (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-343.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>337</ID>
+    <Vocab>chef</Vocab>
+    <meaning>leader, boss (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-344.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>338</ID>
+    <Vocab>haut</Vocab>
+    <meaning>high</meaning>
+    <Language>Fr.</Language>
+    <Path>word-345.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>339</ID>
+    <Vocab>capitaine</Vocab>
+    <meaning>captain (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-346.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>340</ID>
+    <Vocab>Il dirait</Vocab>
+    <meaning>He would say</meaning>
+    <Language>Fr.</Language>
+    <Path>word-347.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>341</ID>
+    <Vocab>bébé</Vocab>
+    <meaning>baby (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-348.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>342</ID>
+    <Vocab>J'ai demandé</Vocab>
+    <meaning>I asked</meaning>
+    <Language>Fr.</Language>
+    <Path>word-349.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>343</ID>
+    <Vocab>possible</Vocab>
+    <meaning>possible</meaning>
+    <Language>Fr.</Language>
+    <Path>word-350.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>344</ID>
+    <Vocab>ainsi</Vocab>
+    <meaning>thus, so</meaning>
+    <Language>Fr.</Language>
+    <Path>word-351.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>345</ID>
+    <Vocab>plein</Vocab>
+    <meaning>full, whole</meaning>
+    <Language>Fr.</Language>
+    <Path>word-352.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>346</ID>
+    <Vocab>raconteur</Vocab>
+    <meaning>to tell</meaning>
+    <Language>Fr.</Language>
+    <Path>word-353.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>347</ID>
+    <Vocab>semaine</Vocab>
+    <meaning>week (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-354.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>348</ID>
+    <Vocab>Vous dites</Vocab>
+    <meaning>You say (pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-355.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>349</ID>
+    <Vocab>croire</Vocab>
+    <meaning>to believe</meaning>
+    <Language>Fr.</Language>
+    <Path>word-356.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>350</ID>
+    <Vocab>marcher</Vocab>
+    <meaning>to walk</meaning>
+    <Language>Fr.</Language>
+    <Path>word-357.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>351</ID>
+    <Vocab>Je marche</Vocab>
+    <meaning>I walk</meaning>
+    <Language>Fr.</Language>
+    <Path>word-358.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>352</ID>
+    <Vocab>école</Vocab>
+    <meaning>school (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-359.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>353</ID>
+    <Vocab>manger</Vocab>
+    <meaning>to eat</meaning>
+    <Language>Fr.</Language>
+    <Path>word-360.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>354</ID>
+    <Vocab>plutôt</Vocab>
+    <meaning>rather</meaning>
+    <Language>Fr.</Language>
+    <Path>word-361.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>355</ID>
+    <Vocab>docteur</Vocab>
+    <meaning>doctor (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-362.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>356</ID>
+    <Vocab>vérité</Vocab>
+    <meaning>truth (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-363.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>357</ID>
+    <Vocab>vue</Vocab>
+    <meaning>view, sight (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-364.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>358</ID>
+    <Vocab>arrêter</Vocab>
+    <meaning>to stop</meaning>
+    <Language>Fr.</Language>
+    <Path>word-365.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>359</ID>
+    <Vocab>J'essaie</Vocab>
+    <meaning>I try</meaning>
+    <Language>Fr.</Language>
+    <Path>word-366.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>360</ID>
+    <Vocab>essayer</Vocab>
+    <meaning>to try</meaning>
+    <Language>Fr.</Language>
+    <Path>word-367.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>361</ID>
+    <Vocab>envoyer</Vocab>
+    <meaning>to send</meaning>
+    <Language>Fr.</Language>
+    <Path>word-368.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>362</ID>
+    <Vocab>J'envie</Vocab>
+    <meaning>I send</meaning>
+    <Language>Fr.</Language>
+    <Path>word-369.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>363</ID>
+    <Vocab>bientôt</Vocab>
+    <meaning>soon</meaning>
+    <Language>Fr.</Language>
+    <Path>word-370.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>364</ID>
+    <Vocab>instant</Vocab>
+    <meaning>a moment, instant (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-371.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>365</ID>
+    <Vocab>arriver</Vocab>
+    <meaning>to arrive</meaning>
+    <Language>Fr.</Language>
+    <Path>word-372.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>366</ID>
+    <Vocab>demander</Vocab>
+    <meaning>to ask for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-373.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>367</ID>
+    <Vocab>meilleur</Vocab>
+    <meaning>better</meaning>
+    <Language>Fr.</Language>
+    <Path>word-374.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>368</ID>
+    <Vocab>Ils font</Vocab>
+    <meaning>They do, make</meaning>
+    <Language>Fr.</Language>
+    <Path>word-375.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>369</ID>
+    <Vocab>derrière</Vocab>
+    <meaning>behind</meaning>
+    <Language>Fr.</Language>
+    <Path>word-376.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>370</ID>
+    <Vocab>presque</Vocab>
+    <meaning>almost, nearly</meaning>
+    <Language>Fr.</Language>
+    <Path>word-377.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>371</ID>
+    <Vocab>tellement</Vocab>
+    <meaning>so, so much</meaning>
+    <Language>Fr.</Language>
+    <Path>word-378.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>372</ID>
+    <Vocab>tomber</Vocab>
+    <meaning>to fall</meaning>
+    <Language>Fr.</Language>
+    <Path>word-379.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>373</ID>
+    <Vocab>journée</Vocab>
+    <meaning>day (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-380.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>374</ID>
+    <Vocab>Il voulait</Vocab>
+    <meaning>He wants</meaning>
+    <Language>Fr.</Language>
+    <Path>word-381.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>375</ID>
+    <Vocab>appeler</Vocab>
+    <meaning>to call</meaning>
+    <Language>Fr.</Language>
+    <Path>word-382.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>376</ID>
+    <Vocab>bureau</Vocab>
+    <meaning>office (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-383.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>377</ID>
+    <Vocab>confiance</Vocab>
+    <meaning>trust (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-384.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>378</ID>
+    <Vocab>garde</Vocab>
+    <meaning>guard (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-385.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>379</ID>
+    <Vocab>attendre</Vocab>
+    <meaning>to wait for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-386.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>380</ID>
+    <Vocab>numéro</Vocab>
+    <meaning>number (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-387.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>381</ID>
+    <Vocab>Je serai</Vocab>
+    <meaning>I will be</meaning>
+    <Language>Fr.</Language>
+    <Path>word-388.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>382</ID>
+    <Vocab>dur</Vocab>
+    <meaning>hard, tough</meaning>
+    <Language>Fr.</Language>
+    <Path>word-389.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>383</ID>
+    <Vocab>souvenir</Vocab>
+    <meaning>to remember</meaning>
+    <Language>Fr.</Language>
+    <Path>word-390.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>384</ID>
+    <Vocab>Vous voyez</Vocab>
+    <meaning>You see</meaning>
+    <Language>Fr.</Language>
+    <Path>word-394.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>385</ID>
+    <Vocab>cours</Vocab>
+    <meaning>lesson, class (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-395.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>386</ID>
+    <Vocab>bonsoir</Vocab>
+    <meaning>good evening</meaning>
+    <Language>Fr.</Language>
+    <Path>word-396.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>387</ID>
+    <Vocab>route</Vocab>
+    <meaning>road (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-397.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>388</ID>
+    <Vocab>Il fera</Vocab>
+    <meaning>He will do,make</meaning>
+    <Language>Fr.</Language>
+    <Path>word-398.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>389</ID>
+    <Vocab>Il prend</Vocab>
+    <meaning>He takes</meaning>
+    <Language>Fr.</Language>
+    <Path>word-399.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>390</ID>
+    <Vocab>important</Vocab>
+    <meaning>important</meaning>
+    <Language>Fr.</Language>
+    <Path>word-400.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>391</ID>
+    <Vocab>peine</Vocab>
+    <meaning>sorrow, grief (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-401.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>392</ID>
+    <Vocab>Je croyais</Vocab>
+    <meaning>I believed</meaning>
+    <Language>Fr.</Language>
+    <Path>word-402.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>393</ID>
+    <Vocab>mot</Vocab>
+    <meaning>word (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-403.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>394</ID>
+    <Vocab>Vous devez</Vocab>
+    <meaning>You have to,must (pl)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-404.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>395</ID>
+    <Vocab>fermer</Vocab>
+    <meaning>to close</meaning>
+    <Language>Fr.</Language>
+    <Path>word-405.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>396</ID>
+    <Vocab>Je ferme</Vocab>
+    <meaning>I close</meaning>
+    <Language>Fr.</Language>
+    <Path>word-406.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>397</ID>
+    <Vocab>plaisir</Vocab>
+    <meaning>pleasure (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-407.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>398</ID>
+    <Vocab>chien</Vocab>
+    <meaning>dog (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-408.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>399</ID>
+    <Vocab>jeu</Vocab>
+    <meaning>game (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-409.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>400</ID>
+    <Vocab>calme</Vocab>
+    <meaning>calm, still</meaning>
+    <Language>Fr.</Language>
+    <Path>word-410.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>401</ID>
+    <Vocab>Je voudrais</Vocab>
+    <meaning>I would like</meaning>
+    <Language>Fr.</Language>
+    <Path>word-411.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>402</ID>
+    <Vocab>heureux</Vocab>
+    <meaning>happy</meaning>
+    <Language>Fr.</Language>
+    <Path>word-412.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>403</ID>
+    <Vocab>Vous prenez</Vocab>
+    <meaning>You take</meaning>
+    <Language>Fr.</Language>
+    <Path>word-413.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>404</ID>
+    <Vocab>mariage</Vocab>
+    <meaning>marriage (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-414.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>405</ID>
+    <Vocab>Il voit</Vocab>
+    <meaning>He sees</meaning>
+    <Language>Fr.</Language>
+    <Path>word-415.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>406</ID>
+    <Vocab>dedans</Vocab>
+    <meaning>inside</meaning>
+    <Language>Fr.</Language>
+    <Path>word-416.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>407</ID>
+    <Vocab>entrer</Vocab>
+    <meaning>to get in, to enter</meaning>
+    <Language>Fr.</Language>
+    <Path>word-417.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>408</ID>
+    <Vocab>lit</Vocab>
+    <meaning>bed (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-418.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>409</ID>
+    <Vocab>parfait</Vocab>
+    <meaning>perfect</meaning>
+    <Language>Fr.</Language>
+    <Path>word-419.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>410</ID>
+    <Vocab>rentrer</Vocab>
+    <meaning>to get back, come back</meaning>
+    <Language>Fr.</Language>
+    <Path>word-420.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>411</ID>
+    <Vocab>musique</Vocab>
+    <meaning>music (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-421.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>412</ID>
+    <Vocab>Vous arrêtez</Vocab>
+    <meaning>You stop</meaning>
+    <Language>Fr.</Language>
+    <Path>word-422.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>413</ID>
+    <Vocab>autant</Vocab>
+    <meaning>as much</meaning>
+    <Language>Fr.</Language>
+    <Path>word-423.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>414</ID>
+    <Vocab>service</Vocab>
+    <meaning>service, favour (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-424.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>415</ID>
+    <Vocab>ceci</Vocab>
+    <meaning>this</meaning>
+    <Language>Fr.</Language>
+    <Path>word-432.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>416</ID>
+    <Vocab>drôle</Vocab>
+    <meaning>odd, funny</meaning>
+    <Language>Fr.</Language>
+    <Path>word-433.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>417</ID>
+    <Vocab>Il attend</Vocab>
+    <meaning>He waits</meaning>
+    <Language>Fr.</Language>
+    <Path>word-434.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>418</ID>
+    <Vocab>parfois</Vocab>
+    <meaning>sometimes</meaning>
+    <Language>Fr.</Language>
+    <Path>word-435.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>419</ID>
+    <Vocab>téléphone</Vocab>
+    <meaning>phone (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-436.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>420</ID>
+    <Vocab>retour</Vocab>
+    <meaning>return (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-437.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>421</ID>
+    <Vocab>Il ira</Vocab>
+    <meaning>He will go</meaning>
+    <Language>Fr.</Language>
+    <Path>word-438.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>422</ID>
+    <Vocab>pauvre</Vocab>
+    <meaning>poor</meaning>
+    <Language>Fr.</Language>
+    <Path>word-439.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>423</ID>
+    <Vocab>verre</Vocab>
+    <meaning>glass (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-440.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>424</ID>
+    <Vocab>J'ai pensé</Vocab>
+    <meaning>I thought</meaning>
+    <Language>Fr.</Language>
+    <Path>word-441.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>425</ID>
+    <Vocab>impossible</Vocab>
+    <meaning>impossible</meaning>
+    <Language>Fr.</Language>
+    <Path>word-442.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>426</ID>
+    <Vocab>fête</Vocab>
+    <meaning>holiday, party (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-443.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>427</ID>
+    <Vocab>J'adore</Vocab>
+    <meaning>I adore, love</meaning>
+    <Language>Fr.</Language>
+    <Path>word-444.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>428</ID>
+    <Vocab>coeur</Vocab>
+    <meaning>heart (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-445.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>429</ID>
+    <Vocab>Tu aimes</Vocab>
+    <meaning>You like, love</meaning>
+    <Language>Fr.</Language>
+    <Path>word-446.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>430</ID>
+    <Vocab>président</Vocab>
+    <meaning>président (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-447.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>431</ID>
+    <Vocab>doute</Vocab>
+    <meaning>doubt (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-448.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>432</ID>
+    <Vocab>facile</Vocab>
+    <meaning>easy</meaning>
+    <Language>Fr.</Language>
+    <Path>word-449.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>433</ID>
+    <Vocab>J'entends</Vocab>
+    <meaning>I hear</meaning>
+    <Language>Fr.</Language>
+    <Path>word-450.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>434</ID>
+    <Vocab>payer</Vocab>
+    <meaning>to pay</meaning>
+    <Language>Fr.</Language>
+    <Path>word-451.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>435</ID>
+    <Vocab>prison</Vocab>
+    <meaning>prisión (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-452.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>436</ID>
+    <Vocab>Je sors</Vocab>
+    <meaning>I go out, take out</meaning>
+    <Language>Fr.</Language>
+    <Path>word-453.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>437</ID>
+    <Vocab>café</Vocab>
+    <meaning>coffee (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-454.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>438</ID>
+    <Vocab>mauvais</Vocab>
+    <meaning>bad</meaning>
+    <Language>Fr.</Language>
+    <Path>word-455.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>439</ID>
+    <Vocab>oublier</Vocab>
+    <meaning>to forget</meaning>
+    <Language>Fr.</Language>
+    <Path>word-456.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>440</ID>
+    <Vocab>J'ai oublié</Vocab>
+    <meaning>I forgot</meaning>
+    <Language>Fr.</Language>
+    <Path>word-457.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>441</ID>
+    <Vocab>bras</Vocab>
+    <meaning>arm (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-458.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>442</ID>
+    <Vocab>gentil</Vocab>
+    <meaning>kind, nice</meaning>
+    <Language>Fr.</Language>
+    <Path>word-459.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>443</ID>
+    <Vocab>équipe</Vocab>
+    <meaning>team (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-460.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>444</ID>
+    <Vocab>exactement</Vocab>
+    <meaning>exactly</meaning>
+    <Language>Fr.</Language>
+    <Path>word-461.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>445</ID>
+    <Vocab>changer</Vocab>
+    <meaning>to change</meaning>
+    <Language>Fr.</Language>
+    <Path>word-462.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>446</ID>
+    <Vocab>Je commence</Vocab>
+    <meaning>I begin, start</meaning>
+    <Language>Fr.</Language>
+    <Path>word-463.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>447</ID>
+    <Vocab>lieu</Vocab>
+    <meaning>place (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-464.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>448</ID>
+    <Vocab>roi</Vocab>
+    <meaning>king (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-465.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>449</ID>
+    <Vocab>plan</Vocab>
+    <meaning>map, plan (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-466.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>450</ID>
+    <Vocab>partout</Vocab>
+    <meaning>everywhere</meaning>
+    <Language>Fr.</Language>
+    <Path>word-467.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>451</ID>
+    <Vocab>cher</Vocab>
+    <meaning>expensive</meaning>
+    <Language>Fr.</Language>
+    <Path>word-468.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>452</ID>
+    <Vocab>rendre</Vocab>
+    <meaning>to give back, return</meaning>
+    <Language>Fr.</Language>
+    <Path>word-469.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>453</ID>
+    <Vocab>J'ai écrit</Vocab>
+    <meaning>I wrote</meaning>
+    <Language>Fr.</Language>
+    <Path>word-470.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>454</ID>
+    <Vocab>travailler</Vocab>
+    <meaning>to work</meaning>
+    <Language>Fr.</Language>
+    <Path>word-471.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>455</ID>
+    <Vocab>malade</Vocab>
+    <meaning>ill, sick</meaning>
+    <Language>Fr.</Language>
+    <Path>word-472.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>456</ID>
+    <Vocab>sinon</Vocab>
+    <meaning>otherwise, or else</meaning>
+    <Language>Fr.</Language>
+    <Path>word-473.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>457</ID>
+    <Vocab>génial</Vocab>
+    <meaning>great, brilliant</meaning>
+    <Language>Fr.</Language>
+    <Path>word-474.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>458</ID>
+    <Vocab>Ils veulent</Vocab>
+    <meaning>They want</meaning>
+    <Language>Fr.</Language>
+    <Path>word-475.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>459</ID>
+    <Vocab>Je travaille</Vocab>
+    <meaning>I work</meaning>
+    <Language>Fr.</Language>
+    <Path>word-477.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>460</ID>
+    <Vocab>armée</Vocab>
+    <meaning>army (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-478.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>461</ID>
+    <Vocab>J'ai voulu</Vocab>
+    <meaning>I wanted</meaning>
+    <Language>Fr.</Language>
+    <Path>word-479.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>462</ID>
+    <Vocab>Je cherche</Vocab>
+    <meaning>I look for</meaning>
+    <Language>Fr.</Language>
+    <Path>word-480.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>463</ID>
+    <Vocab>état</Vocab>
+    <meaning>state, nation (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-481.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>464</ID>
+    <Vocab>boire</Vocab>
+    <meaning>to drink</meaning>
+    <Language>Fr.</Language>
+    <Path>word-482.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>465</ID>
+    <Vocab>année</Vocab>
+    <meaning>year (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-483.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>466</ID>
+    <Vocab>J'ai laissé</Vocab>
+    <meaning>I left</meaning>
+    <Language>Fr.</Language>
+    <Path>word-484.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>467</ID>
+    <Vocab>bois</Vocab>
+    <meaning>wood (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-485.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>468</ID>
+    <Vocab>Je mets</Vocab>
+    <meaning>I put</meaning>
+    <Language>Fr.</Language>
+    <Path>word-486.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>469</ID>
+    <Vocab>propre</Vocab>
+    <meaning>clean</meaning>
+    <Language>Fr.</Language>
+    <Path>word-487.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>470</ID>
+    <Vocab>tôt</Vocab>
+    <meaning>early</meaning>
+    <Language>Fr.</Language>
+    <Path>word-488.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>471</ID>
+    <Vocab>surtout</Vocab>
+    <meaning>above all</meaning>
+    <Language>Fr.</Language>
+    <Path>word-489.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>472</ID>
+    <Vocab>rêve</Vocab>
+    <meaning>dream (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-490.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>473</ID>
+    <Vocab>pire</Vocab>
+    <meaning>worse</meaning>
+    <Language>Fr.</Language>
+    <Path>word-491.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>474</ID>
+    <Vocab>simple</Vocab>
+    <meaning>simple, plain</meaning>
+    <Language>Fr.</Language>
+    <Path>word-492.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>475</ID>
+    <Vocab>Tu penses</Vocab>
+    <meaning>You think</meaning>
+    <Language>Fr.</Language>
+    <Path>word-493.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>476</ID>
+    <Vocab>Tu parles</Vocab>
+    <meaning>You speak</meaning>
+    <Language>Fr.</Language>
+    <Path>word-494.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>477</ID>
+    <Vocab>paix</Vocab>
+    <meaning>peace (f)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-495.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>478</ID>
+    <Vocab>livre</Vocab>
+    <meaning>book (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-496.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>479</ID>
+    <Vocab>dormir</Vocab>
+    <meaning>to sleep</meaning>
+    <Language>Fr.</Language>
+    <Path>word-497.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>480</ID>
+    <Vocab>Nous voyons</Vocab>
+    <meaning>We see</meaning>
+    <Language>Fr.</Language>
+    <Path>word-498.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>481</ID>
+    <Vocab>difficile</Vocab>
+    <meaning>difficult</meaning>
+    <Language>Fr.</Language>
+    <Path>word-499.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>482</ID>
+    <Vocab>Il allait</Vocab>
+    <meaning>He went</meaning>
+    <Language>Fr.</Language>
+    <Path>word-500.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>483</ID>
+    <Vocab>sujet</Vocab>
+    <meaning>subject (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-501.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>484</ID>
+    <Vocab>J'ai appris</Vocab>
+    <meaning>I learnt</meaning>
+    <Language>Fr.</Language>
+    <Path>word-502.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>485</ID>
+    <Vocab>ensuite</Vocab>
+    <meaning>then, later</meaning>
+    <Language>Fr.</Language>
+    <Path>word-503.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>486</ID>
+    <Vocab>sauf</Vocab>
+    <meaning>except</meaning>
+    <Language>Fr.</Language>
+    <Path>word-504.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>487</ID>
+    <Vocab>noir</Vocab>
+    <meaning>black</meaning>
+    <Language>Fr.</Language>
+    <Path>word-505.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>488</ID>
+    <Vocab>dîner</Vocab>
+    <meaning>to have dinner</meaning>
+    <Language>Fr.</Language>
+    <Path>word-506.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>489</ID>
+    <Vocab>choix</Vocab>
+    <meaning>choice (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-507.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>490</ID>
+    <Vocab>Je serais</Vocab>
+    <meaning>I would be</meaning>
+    <Language>Fr.</Language>
+    <Path>word-508.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>491</ID>
+    <Vocab>sale</Vocab>
+    <meaning>dirty</meaning>
+    <Language>Fr.</Language>
+    <Path>word-509.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>492</ID>
+    <Vocab>Vous étiez</Vocab>
+    <meaning>You were</meaning>
+    <Language>Fr.</Language>
+    <Path>word-510.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>493</ID>
+    <Vocab>sûrement</Vocab>
+    <meaning>surely</meaning>
+    <Language>Fr.</Language>
+    <Path>word-511.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>494</ID>
+    <Vocab>an</Vocab>
+    <meaning>year (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-512.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>495</ID>
+    <Vocab>ordre</Vocab>
+    <meaning>order (m)</meaning>
+    <Language>Fr.</Language>
+    <Path>word-513.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>496</ID>
+    <Vocab>souvent</Vocab>
+    <meaning>often</meaning>
+    <Language>Fr.</Language>
+    <Path>word-514.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>497</ID>
+    <Vocab>gagner</Vocab>
+    <meaning>to win</meaning>
+    <Language>Fr.</Language>
+    <Path>word-515.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>498</ID>
+    <Vocab>Ils peuvent</Vocab>
+    <meaning>They are able</meaning>
+    <Language>Fr.</Language>
+    <Path>word-516.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>499</ID>
+    <Vocab>vendre</Vocab>
+    <meaning>to sell</meaning>
+    <Language>Fr.</Language>
+    <Path>word-517.wav</Path>
+  </DataTable1>
+  <DataTable1>
+    <ID>500</ID>
+    <Vocab>Gezegen</Vocab>
+    <meaning>Planet</meaning>
+    <Language>Tr.</Language>
+  </DataTable1>
+  <DataTable1>
+    <ID>501</ID>
+    <Vocab>Gereksiz</Vocab>
+    <meaning>Unneccessary</meaning>
+    <Language>Tr.</Language>
+  </DataTable1>
+  <DataTable1>
+    <ID>502</ID>
+    <Vocab>Dünya</Vocab>
+    <meaning>World</meaning>
+    <Language>Tr.</Language>
+  </DataTable1>
+</DataSet1>
